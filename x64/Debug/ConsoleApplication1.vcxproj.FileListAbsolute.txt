@@ -1,3 +1,6 @@
 C:\Users\RexoL\source\repos\data structures\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
 C:\Users\RexoL\source\repos\data structures\ConsoleApplication1\x64\Debug\ConsoleApplication1.vcxproj.CopyComplete
 C:\Users\RexoL\source\repos\data structures\ConsoleApplication1\x64\Debug\libsodium.dll
+C:\Users\RexoL\source\repos\Wallet-system\x64\Debug\ConsoleApplication1.vcxproj.CopyComplete
+C:\Users\RexoL\source\repos\Wallet-system\x64\Debug\ConsoleApplication1.exe
+C:\Users\RexoL\source\repos\Wallet-system\x64\Debug\libsodium.dll
