@@ -1,0 +1,18 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\RexoL\source\repos\data structures\ConsoleApplication1\Wallet.cpp(156,14): warning C4101: 'err': unreferenced local variable
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\RexoL\source\repos\data structures\ConsoleApplication1\Wallet.cpp(319,24): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\RexoL\source\repos\data structures\ConsoleApplication1\ConsoleApplication1.cpp(141,20): warning C4101: 'err': unreferenced local variable
+C:\Users\RexoL\source\repos\data structures\ConsoleApplication1\ConsoleApplication1.cpp(201,20): warning C4101: 'err': unreferenced local variable
+C:\Users\RexoL\source\repos\data structures\ConsoleApplication1\ConsoleApplication1.cpp(298,46): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\RexoL\source\repos\data structures\ConsoleApplication1\ConsoleApplication1.cpp(318,40): warning C4101: 'err': unreferenced local variable
+C:\Users\RexoL\source\repos\data structures\ConsoleApplication1\ConsoleApplication1.cpp(422,41): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\RexoL\source\repos\data structures\ConsoleApplication1\ConsoleApplication1.cpp(468,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\RexoL\source\repos\data structures\ConsoleApplication1\ConsoleApplication1.cpp(609,40): warning C4101: 'err': unreferenced local variable
+C:\Users\RexoL\source\repos\data structures\ConsoleApplication1\Wallet.cpp(359): warning C4715: 'Wallet::string_to_bool': not all control paths return a value
+  ConsoleApplication1.vcxproj -> C:\Users\RexoL\source\repos\data structures\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
